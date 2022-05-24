@@ -49,7 +49,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://SangRyeol-Yun.github.io",
+  "homepage": "https://SangRyeol-Yun.github.io/react-masterclass-typescript",
   "devDependencies": {
     "@types/styled-components": "^5.1.25",
     "react-router-dom": "^5.2.0"
