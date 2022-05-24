@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-for-begginers/static/js/main.10605410.js",
-    "index.html": "/react-for-begginers/index.html",
-    "main.10605410.js.map": "/react-for-begginers/static/js/main.10605410.js.map"
+    "main.js": "/react-masterclass-typescript/static/js/main.7e260bda.js",
+    "index.html": "/react-masterclass-typescript/index.html",
+    "main.7e260bda.js.map": "/react-masterclass-typescript/static/js/main.7e260bda.js.map"
   },
   "entrypoints": [
-    "static/js/main.10605410.js"
+    "static/js/main.7e260bda.js"
   ]
 }
