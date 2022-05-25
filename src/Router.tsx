@@ -6,11 +6,11 @@ function Router() {
     return (
         <BrowserRouter>
             <Switch>
-                <Route path="/:coinId">
-                    <Coin />
-                </Route>
-                <Route path="/">
+                <Route path="/react-masterclass-typescript/">
                     <Coins />
+                </Route>
+                <Route path="/react-masterclass-typescript/:coinId">
+                    <Coin />
                 </Route>
             </Switch>
         </BrowserRouter>
